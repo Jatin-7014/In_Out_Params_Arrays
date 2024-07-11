@@ -1,0 +1,7 @@
+D:\C#\InOutParams\bin\Debug\InOutParams.exe.config
+D:\C#\InOutParams\bin\Debug\InOutParams.exe
+D:\C#\InOutParams\bin\Debug\InOutParams.pdb
+D:\C#\InOutParams\obj\Debug\InOutParams.csproj.AssemblyReference.cache
+D:\C#\InOutParams\obj\Debug\InOutParams.csproj.CoreCompileInputs.cache
+D:\C#\InOutParams\obj\Debug\InOutParams.exe
+D:\C#\InOutParams\obj\Debug\InOutParams.pdb
